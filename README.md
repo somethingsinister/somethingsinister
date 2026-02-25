@@ -1,16 +1,19 @@
-## Hi there 👋
+# My Profile
 
-<!--
-**somethingsinister/somethingsinister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Expertise
+- **Database Management**: Proficient in designing and managing databases.
+- **Cybersecurity**: Skilled in protecting networks and systems from threats.
 
-Here are some ideas to get you started:
+## Certifications
+- **Advent of Cyber 2025**: Completed on December 30, 2025 with 24 challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Online Profiles
+- **TryHackMe Profile**: [bmark4901](https://tryhackme.com/p/bmark4901)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/myprofile)
+
+## Current Projects
+- **Python Gaming**: Working on various gaming projects using Python.
+- **Swift Development**: Engaged in developing applications in Swift.
+
+## Collaboration
+I am open to collaboration on cybersecurity and database projects. Feel free to reach out!
